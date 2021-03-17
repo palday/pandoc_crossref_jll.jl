@@ -1,6 +1,6 @@
 name = "pandoc_crossref_jll"
 uuid = "f96e3c25-ae70-5588-8d8e-4a7ab3ba4c45"
-version = "0.3.6+0"
+version = "0.3.9+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
