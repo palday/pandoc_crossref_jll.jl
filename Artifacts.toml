@@ -1,25 +1,25 @@
 [[pandoc_crossref]]
 arch = "x86_64"
-git-tree-sha1 = "2c9e222ff27286dc754c48a924f24b6237baec34"
+git-tree-sha1 = "9272a25095a3629b8617149f68064fbf89c373ed"
 os = "macos"
 
     [[pandoc_crossref.download]]
-    sha256 = "8e700d0963fd629f70d15c0e73cc46ddaac3241f9873f6eac49dca32a19159b4"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.9+0/pandoc_crossref.v0.3.9.x86_64-apple-darwin.tar.gz"
+    sha256 = "a6a240ca53bb4422976e85fc0c6da4e6c65bcbfb2f6ea8e7645a81a8e227ae56"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-apple-darwin.tar.gz"
 [[pandoc_crossref]]
 arch = "x86_64"
-git-tree-sha1 = "ff30469cc6cd98deced89768d2d2710892cbd30f"
+git-tree-sha1 = "fa109c736e9229e0379f045a3c6535ba2ca39481"
 libc = "glibc"
 os = "linux"
 
     [[pandoc_crossref.download]]
-    sha256 = "320b6e68253b86d61e3c1f520cde906aded7553e19cbed0ef5c495aaa4589f4e"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.9+0/pandoc_crossref.v0.3.9.x86_64-linux-gnu.tar.gz"
+    sha256 = "616be42a4d7cda624a7e11ca1fa06cba18068400d53e29fce29eeaa72f9e9642"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-linux-gnu.tar.gz"
 [[pandoc_crossref]]
 arch = "x86_64"
-git-tree-sha1 = "909aba6437ffd66cb815f31d0cbb27f09ba90dfc"
+git-tree-sha1 = "5cc8d67b3583ce4a1de14bfbce5a4a00702686bd"
 os = "windows"
 
     [[pandoc_crossref.download]]
-    sha256 = "23189d5ecf36a518801eff21cb783ef28cda71e601279450a0477df3e463531b"
-    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.9+0/pandoc_crossref.v0.3.9.x86_64-w64-mingw32.tar.gz"
+    sha256 = "989dfd5ec488cdf019985ed0711a0d31e9b4eabab155645b6cf1851aaa326af0"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-w64-mingw32.tar.gz"
