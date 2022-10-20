@@ -7,6 +7,14 @@ os = "macos"
     sha256 = "a6a240ca53bb4422976e85fc0c6da4e6c65bcbfb2f6ea8e7645a81a8e227ae56"
     url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-apple-darwin.tar.gz"
 [[pandoc_crossref]]
+arch = "aarch64"
+git-tree-sha1 = "9272a25095a3629b8617149f68064fbf89c373ed"
+os = "macos"
+
+    [[pandoc_crossref.download]]
+    sha256 = "a6a240ca53bb4422976e85fc0c6da4e6c65bcbfb2f6ea8e7645a81a8e227ae56"
+    url = "https://github.com/JuliaBinaryWrappers/pandoc_crossref_jll.jl/releases/download/pandoc_crossref-v0.3.11+0/pandoc_crossref.v0.3.11.x86_64-apple-darwin.tar.gz"
+[[pandoc_crossref]]
 arch = "x86_64"
 git-tree-sha1 = "fa109c736e9229e0379f045a3c6535ba2ca39481"
 libc = "glibc"
